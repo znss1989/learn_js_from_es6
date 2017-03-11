@@ -1,2 +1,9 @@
 resources/
 node_modules/
+
+# Personal draft script
+draft.md
+
+# book build output
+_book/*
+zh-hans/_book/*
